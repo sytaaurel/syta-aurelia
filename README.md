@@ -1,0 +1,2 @@
+# syta-aurelia
+kepribadian
